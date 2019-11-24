@@ -31,7 +31,7 @@ From there, the script will attempt to parse out the streams and download them. 
 
 # Author
 
-## ybenel 
+## ybenel
 
 # Inspired From :
 

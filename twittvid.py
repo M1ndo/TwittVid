@@ -47,7 +47,7 @@ print("        "+Blue+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"___________"+Green+"["+Reset+"  TwittVid"+Red+"]"+Blue+"___________")
 print("      "+Blue+"_______"+Grey+" ["+Green+"Inspired From The Linux Choice"+Grey+"]"+Blue+"_______")
-print("     "+Blue+"___________"+Grey+"["+Red+"Created By ybenel"+Grey+"]"+Blue+"___________"+Reset+"\n")
+print("     "+Blue+"___________"+Grey+"["+Red+"Made By ybenel"+Grey+"]"+Blue+"___________"+Reset+"\n")
 
 
 def download(video_url):
