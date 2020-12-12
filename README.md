@@ -33,6 +33,3 @@ From there, the script will attempt to parse out the streams and download them. 
 
 ## ybenel
 
-# Inspired From :
-
-## The Linux Choice [https://github.com/thelinuxchoice]
